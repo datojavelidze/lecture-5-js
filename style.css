@@ -1,0 +1,11 @@
+.buts{
+    display: flex;
+}
+.but-1 .but-2{
+    background-color: rgb(86, 18, 37);
+    margin-right: 15px;
+}
+.reset{
+    background-color: rgb(255, 0, 0);
+    color: white;
+}
